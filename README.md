@@ -1,4 +1,4 @@
-Read this in other languages: [English](README.md), [“ú–{Œê](README.ja.md)
+Read this in other languages: [English](README.md), [æ—¥æœ¬èªž](README.ja.md)
 
 # SiTCPXG_Sample_Code_for_KC705
 
@@ -23,6 +23,14 @@ Simple TCP/IP implemented with support only for 10GbE on an FPGA (Field Programm
 
 ## History
 
-#### 2021-04-02 Ver.1.0
+#### 2021-12-02 Ver.1.0.2
+
+* Deleted SiTCPXG directory
+
+#### 2021-05-19 Ver.1.0.1
+
+* Added KC705_SiTCP_XG_EEPROM.pdf
+
+#### 2021-04-02 Ver.1.0.0
 
 * First release.
